@@ -33,8 +33,6 @@
   選択テキストを `CMD+C+C` で即翻訳するメニューバーアプリ
 - 🧘 **[zenswitch](https://github.com/gawasa29/zenswitch)**  
   集中前に不要アプリを一括で閉じる macOS CLI
-- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)**  
-  自作ツールを素早く配布するための Homebrew Tap
 
 ## Legacy Projects
 
