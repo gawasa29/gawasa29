@@ -35,12 +35,42 @@
   集中前に不要アプリを一括で閉じる macOS CLI
 - 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)**  
   自作ツールを素早く配布するための Homebrew Tap
+
+## Legacy Projects
+
+最終 push が **2025-02-18** より前で、現在は更新停止中のリポジトリをレガシーとして記載しています。
+
+- 🧪 **[flutter_bluesky_clone](https://github.com/gawasa29/flutter_bluesky_clone)**  
+  最終 push: 2023-09-09
+- 🧱 **[flutter_riverpod_firebase_ddd_app](https://github.com/gawasa29/flutter_riverpod_firebase_ddd_app)**  
+  最終 push: 2023-06-07
+- ✅ **[flutter_todo_examples](https://github.com/gawasa29/flutter_todo_examples)**  
+  最終 push: 2023-07-24
+- ⏱️ **[work_countdown_timer](https://github.com/gawasa29/work_countdown_timer)**  
+  最終 push: 2023-01-03
+- 📝 **[blog_template](https://github.com/gawasa29/blog_template)**  
+  最終 push: 2022-11-27
+- 🎮 **[training_tinder](https://github.com/gawasa29/training_tinder)**  
+  最終 push: 2021-09-04
+
+## Experimental / Sample Projects
+
+実験・検証・サンプル目的のプロジェクトを分けて記載しています。
+
 - 📈 **[product-hunt-api-sample](https://github.com/gawasa29/product-hunt-api-sample)**  
   Product Hunt API を扱う TypeScript サンプル
 - 🔎 **[seo-tool](https://github.com/gawasa29/seo-tool)**  
   SEO 分析を試すための実験プロジェクト
 - 🤖 **[saas-read-ai](https://github.com/gawasa29/saas-read-ai)**  
   SaaS と AI を組み合わせた検証用アプリ
+- 🚀 **[nextjs-start](https://github.com/gawasa29/nextjs-start)**  
+  Next.js をすぐ試せるスタータープロジェクト
+- 🌌 **[AstroSample](https://github.com/gawasa29/AstroSample)**  
+  Astro 構成を確認するためのサンプル
+- 💬 **[aichat](https://github.com/gawasa29/aichat)**  
+  AI チャット体験のプロトタイプ
+- 🤝 **[my_anthropic_sample](https://github.com/gawasa29/my_anthropic_sample)**  
+  Anthropic API 連携の検証プロジェクト
 
 ## GitHub Activity
 
@@ -52,12 +82,6 @@
 <p>
   <img height="170" src="https://streak-stats.demolab.com?user=gawasa29&hide_border=true" alt="github streak" />
 </p>
-
-## Building Style
-
-- 課題を見つけたらまず CLI で最小実装
-- 使いながら磨いて、必要なら GUI 化
-- 休日に作って平日に改善する反復サイクル
 
 ## Connect
 
