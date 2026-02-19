@@ -29,31 +29,16 @@
 
 ## Current Projects
 
-- ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)**  
-  選択テキストを `CMD+C+C` で即翻訳するメニューバーアプリ
-- 🧘 **[zenswitch](https://github.com/gawasa29/zenswitch)**  
-  集中前に不要アプリを一括で閉じる macOS CLI
+現在メンテナンス中の主要リポジトリです（最終確認: **2026-02-19**）。
 
-## Legacy Projects
-
-最終 push が **2025-02-18** より前で、現在は更新停止中のリポジトリをレガシーとして記載しています。
-
-- 🧪 **[flutter_bluesky_clone](https://github.com/gawasa29/flutter_bluesky_clone)**  
-  最終 push: 2023-09-09
-- 🧱 **[flutter_riverpod_firebase_ddd_app](https://github.com/gawasa29/flutter_riverpod_firebase_ddd_app)**  
-  最終 push: 2023-06-07
-- ✅ **[flutter_todo_examples](https://github.com/gawasa29/flutter_todo_examples)**  
-  最終 push: 2023-07-24
-- ⏱️ **[work_countdown_timer](https://github.com/gawasa29/work_countdown_timer)**  
-  最終 push: 2023-01-03
-- 📝 **[blog_template](https://github.com/gawasa29/blog_template)**  
-  最終 push: 2022-11-27
-- 🎮 **[training_tinder](https://github.com/gawasa29/training_tinder)**  
-  最終 push: 2021-09-04
+- ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)** - 選択テキストを `CMD+C+C` で即翻訳するメニューバーアプリ（最終 push: 2026-02-19）
+- 🧘 **[zen-cli](https://github.com/gawasa29/zen-cli)** - 集中前に不要アプリを一括で閉じる macOS 専用 CLI（最終 push: 2026-02-19）
+- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - `zen-cli` / `quick-translate` 配布用の Homebrew Tap（最終 push: 2026-02-19）
+- 🧩 **[everything-claude-code-jp](https://github.com/gawasa29/everything-claude-code-jp)** - Claude Code の設定集（agents / skills / hooks など）
 
 ## Experimental / Sample Projects
 
-実験・検証・サンプル目的のプロジェクトを分けて記載しています。
+実験・検証・サンプル目的のプロジェクトです（主に 2025 年に更新）。
 
 - 📈 **[product-hunt-api-sample](https://github.com/gawasa29/product-hunt-api-sample)**  
   Product Hunt API を扱う TypeScript サンプル
@@ -69,6 +54,17 @@
   AI チャット体験のプロトタイプ
 - 🤝 **[my_anthropic_sample](https://github.com/gawasa29/my_anthropic_sample)**  
   Anthropic API 連携の検証プロジェクト
+
+## Legacy Projects
+
+最終 push が 1 年以上前で、現在は更新停止中のリポジトリです。
+
+- 🧪 **[flutter_bluesky_clone](https://github.com/gawasa29/flutter_bluesky_clone)** - 最終 push: 2023-09-09
+- ✅ **[flutter_todo_examples](https://github.com/gawasa29/flutter_todo_examples)** - 最終 push: 2023-07-24
+- 🧱 **[flutter_riverpod_firebase_ddd_app](https://github.com/gawasa29/flutter_riverpod_firebase_ddd_app)** - 最終 push: 2023-06-07
+- ⏱️ **[work_countdown_timer](https://github.com/gawasa29/work_countdown_timer)** - 最終 push: 2023-01-03
+- 📝 **[blog_template](https://github.com/gawasa29/blog_template)** - 最終 push: 2022-11-27
+- 🎮 **[training_tinder](https://github.com/gawasa29/training_tinder)** - 最終 push: 2021-09-04
 
 ## GitHub Activity
 
