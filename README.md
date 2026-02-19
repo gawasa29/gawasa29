@@ -34,7 +34,6 @@
 - ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)** - 選択テキストを `CMD+C+C` で即翻訳するメニューバーアプリ（最終 push: 2026-02-19）
 - 🧘 **[zen-cli](https://github.com/gawasa29/zen-cli)** - 集中前に不要アプリを一括で閉じる macOS 専用 CLI（最終 push: 2026-02-19）
 - 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - `zen-cli` / `quick-translate` 配布用の Homebrew Tap（最終 push: 2026-02-19）
-- 🧩 **[everything-claude-code-jp](https://github.com/gawasa29/everything-claude-code-jp)** - Claude Code の設定集（agents / skills / hooks など）
 
 ## Experimental / Sample Projects
 
