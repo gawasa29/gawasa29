@@ -29,11 +29,9 @@
 
 ## Current Projects
 
-現在メンテナンス中の主要リポジトリです（最終確認: **2026-02-19**）。
-
-- ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)** - 選択テキストを `CMD+C+C` で即翻訳するメニューバーアプリ（最終 push: 2026-02-19）
-- 🧘 **[zen-cli](https://github.com/gawasa29/zen-cli)** - 集中前に不要アプリを一括で閉じる macOS 専用 CLI（最終 push: 2026-02-19）
-- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - `zen-cli` / `quick-translate` 配布用の Homebrew Tap（最終 push: 2026-02-19）
+- ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)** - 選択テキストを `CMD+C+C` で即翻訳するメニューバーアプリ
+- 🧘 **[zen-cli](https://github.com/gawasa29/zen-cli)** - 集中前に不要アプリを一括で閉じる macOS 専用 CLI
+- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - `zen-cli` / `quick-translate` 配布用の Homebrew Tap
 
 ## Experimental / Sample Projects
 
@@ -56,25 +54,14 @@
 
 ## Legacy Projects
 
-最終 push が 1 年以上前で、現在は更新停止中のリポジトリです。
+現在は更新停止中のリポジトリです。
 
-- 🧪 **[flutter_bluesky_clone](https://github.com/gawasa29/flutter_bluesky_clone)** - 最終 push: 2023-09-09
-- ✅ **[flutter_todo_examples](https://github.com/gawasa29/flutter_todo_examples)** - 最終 push: 2023-07-24
-- 🧱 **[flutter_riverpod_firebase_ddd_app](https://github.com/gawasa29/flutter_riverpod_firebase_ddd_app)** - 最終 push: 2023-06-07
-- ⏱️ **[work_countdown_timer](https://github.com/gawasa29/work_countdown_timer)** - 最終 push: 2023-01-03
-- 📝 **[blog_template](https://github.com/gawasa29/blog_template)** - 最終 push: 2022-11-27
-- 🎮 **[training_tinder](https://github.com/gawasa29/training_tinder)** - 最終 push: 2021-09-04
-
-## GitHub Activity
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gawasa29&show_icons=true&hide_border=true" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawasa29&layout=compact&hide_border=true" alt="top languages" />
-</p>
-
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=gawasa29&hide_border=true" alt="github streak" />
-</p>
+- 🧪 **[flutter_bluesky_clone](https://github.com/gawasa29/flutter_bluesky_clone)**
+- ✅ **[flutter_todo_examples](https://github.com/gawasa29/flutter_todo_examples)**
+- 🧱 **[flutter_riverpod_firebase_ddd_app](https://github.com/gawasa29/flutter_riverpod_firebase_ddd_app)**
+- ⏱️ **[work_countdown_timer](https://github.com/gawasa29/work_countdown_timer)**
+- 📝 **[blog_template](https://github.com/gawasa29/blog_template)**
+- 🎮 **[training_tinder](https://github.com/gawasa29/training_tinder)**
 
 ## Connect
 
