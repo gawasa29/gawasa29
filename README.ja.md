@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm gawasa 👋</h1>
 
 <p align="center">
-  I build personal projects while working full-time.<br />
-  I like shipping practical tools in <strong>macOS x CLI x AI</strong> quickly and improving them in small iterations.
+  働きながら趣味で個人開発をしています。<br />
+  <strong>macOS x CLI x AI</strong> の実用ツールを、早く小さく作って改善していくのが好きです。
 </p>
 
 <p align="center">
@@ -31,25 +31,25 @@
 
 ## Current Projects
 
-- ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)** - A menu bar app that instantly translates selected text with `CMD+C+C`
-- 🧘 **[zen-cli](https://github.com/gawasa29/zen-cli)** - A macOS-only CLI that closes distracting apps before focus sessions
-- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - Homebrew tap for distributing `zen-cli` and `quick-translate`
+- ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)** - 選択テキストを `CMD+C+C` で即翻訳するメニューバーアプリ
+- 🧘 **[zen-cli](https://github.com/gawasa29/zen-cli)** - 集中前に不要アプリを一括で閉じる macOS 専用 CLI
+- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - `zen-cli` と `quick-translate` を配布する Homebrew Tap
 
 ## Experimental / Sample Projects
 
-Projects for experiments, validation, and samples.
+実験・検証・サンプル目的のプロジェクトです。
 
-- 📈 **[product-hunt-api-sample](https://github.com/gawasa29/product-hunt-api-sample)** - TypeScript sample for Product Hunt API
-- 🔎 **[seo-tool](https://github.com/gawasa29/seo-tool)** - Experimental project for SEO analysis
-- 🤖 **[saas-read-ai](https://github.com/gawasa29/saas-read-ai)** - Validation app combining SaaS and AI
-- 🚀 **[nextjs-start](https://github.com/gawasa29/nextjs-start)** - Starter project to try Next.js quickly
-- 🌌 **[AstroSample](https://github.com/gawasa29/AstroSample)** - Sample project for trying Astro setup
-- 💬 **[aichat](https://github.com/gawasa29/aichat)** - Prototype for AI chat experience
-- 🤝 **[my_anthropic_sample](https://github.com/gawasa29/my_anthropic_sample)** - Validation project for Anthropic API integration
+- 📈 **[product-hunt-api-sample](https://github.com/gawasa29/product-hunt-api-sample)** - Product Hunt API を扱う TypeScript サンプル
+- 🔎 **[seo-tool](https://github.com/gawasa29/seo-tool)** - SEO 分析を試すための実験プロジェクト
+- 🤖 **[saas-read-ai](https://github.com/gawasa29/saas-read-ai)** - SaaS と AI を組み合わせた検証用アプリ
+- 🚀 **[nextjs-start](https://github.com/gawasa29/nextjs-start)** - Next.js をすぐ試せるスタータープロジェクト
+- 🌌 **[AstroSample](https://github.com/gawasa29/AstroSample)** - Astro 構成を確認するためのサンプル
+- 💬 **[aichat](https://github.com/gawasa29/aichat)** - AI チャット体験のプロトタイプ
+- 🤝 **[my_anthropic_sample](https://github.com/gawasa29/my_anthropic_sample)** - Anthropic API 連携の検証プロジェクト
 
 ## Legacy Projects
 
-Repositories that are no longer actively maintained.
+現在は更新停止中のリポジトリです。
 
 - 🧪 **[flutter_bluesky_clone](https://github.com/gawasa29/flutter_bluesky_clone)**
 - ✅ **[flutter_todo_examples](https://github.com/gawasa29/flutter_todo_examples)**
@@ -61,4 +61,4 @@ Repositories that are no longer actively maintained.
 ## Connect
 
 - GitHub: [@gawasa29](https://github.com/gawasa29)
-- Issues: [Repository List](https://github.com/gawasa29?tab=repositories)
+- Issues: [リポジトリ一覧](https://github.com/gawasa29?tab=repositories)
