@@ -32,8 +32,9 @@
 ## Current Projects
 
 - ⚡ **[macos-quick-translate](https://github.com/gawasa29/macos-quick-translate)** - A menu bar app that instantly translates selected text with `CMD+C+C`
+- 🔁 **[macos-app-reinstaller](https://github.com/gawasa29/macos-app-reinstaller)** - A macOS CLI that snapshots installed apps and generates a reinstall script for clean setup
 - 🧘 **[zen-cli](https://github.com/gawasa29/zen-cli)** - A macOS-only CLI that closes distracting apps before focus sessions
-- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - Homebrew tap for distributing `zen-cli` and `quick-translate`
+- 🍺 **[homebrew-tap](https://github.com/gawasa29/homebrew-tap)** - Homebrew tap for distributing `zen-cli`, `macos-app-reinstaller`, and `quick-translate`
 
 ## Experimental / Sample Projects
 
